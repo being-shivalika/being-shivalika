@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>- Currently learning: MERN stack (MongoDB, Express, React, Node.js)  <br>- Focus: Frontend fundamentals + backend integration  <br>- Building: Real-world web projects  <br>- Exploring: AI in development  
+- Currently learning: MERN stack (MongoDB, Express, React, Node.js)  <br>- Focus: Frontend fundamentals + backend integration  <br>- Building: Real-world web projects  <br>- Exploring: AI in development  
 
 
 ## 🌐 Socials:
