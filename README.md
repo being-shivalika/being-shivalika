@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Shivalika — a student developer who prefers building over just learning.<br>I focus on creating practical web projects, improving frontend fundamentals, and gradually moving toward advanced development.<br>Right now, I'm working on strengthening my skills in modern web technologies while exploring how AI can be integrated into development workflows.<br><br>- Currently learning: MERN stack (MongoDB, Express, React, Node.js)  <br>- Focus: Frontend fundamentals + backend integration  <br>- Building: Real-world web projects  <br>- Exploring: AI in development  
+<br>- Currently learning: MERN stack (MongoDB, Express, React, Node.js)  <br>- Focus: Frontend fundamentals + backend integration  <br>- Building: Real-world web projects  <br>- Exploring: AI in development  
 
 
 ## 🌐 Socials:
