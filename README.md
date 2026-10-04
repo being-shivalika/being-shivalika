@@ -1,27 +1,24 @@
-# Hi, I'm Shivalika Mehra
+# Hi, i'm Shivalika :)
 
-Currently learning the **MERN stack** (MongoDB, Express, React, Node.js), with a strong focus on frontend development and backend integration.
+cs student • frontend & full-stack
 
-I enjoy building real-world web projects and continuously improving my skills through consistent practice and learning from various resources and guidance.
+i like building things for the web, experimenting with ideas, and occasionally spending way too long fixing something that should've taken 10 minutes.
 
-### What I'm Currently Doing
-- Strengthening frontend fundamentals with React and modern styling tools
-- Learning backend development with Node.js, Express, and MongoDB
-- Building full-stack applications to gain practical experience
-- Exploring how AI can be integrated into web applications
+currently learning MERN, getting deeper into backend, and exploring AI × web development.
 
-My goal is to grow into a capable full-stack developer who can build complete, functional, and well-structured web applications.
+## currently
+- building full-stack projects
+- learning Node, Express & MongoDB
+- getting better at APIs, databases & deployment
+- turning random ideas into things that actually work
 
-### Tech Stack
 
-**Frontend:**  
-HTML • CSS • JavaScript • React • Tailwind CSS • Bootstrap • Chakra UI
+### `stack`
 
-**Backend & Database:**  
-Node.js • Express.js • MongoDB
+**frontend** — HTML · CSS · JavaScript · React · Tailwind
+**backend** — Node · Express · MongoDB
+**tools** — Git · GitHub · Postman · Figma · Vercel
 
-**Tools & Others:**  
-Git • GitHub • Figma • Framer • Vercel • Postman • Canva
 
 ### 📊 GitHub Stats
 
@@ -31,9 +28,11 @@ Git • GitHub • Figma • Framer • Vercel • Postman • Canva
 
 ---
 
-### 🌐 Connect With Me
+### `elsewhere`
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shivalika-mehra)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/being_shivalika_)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/shivalika271)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shivalika271@gmail.com)
+
+<sub>still learning. still building. probably debugging something.</sub>
